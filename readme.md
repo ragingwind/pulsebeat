@@ -23,8 +23,10 @@ pulse.beat();
 //=> 1
 
 pulse.beat();
-
 //=> 2
+
+pulse.beat({timeout: 2000});
+//=> 3, after 2sec
 ```
 
 
@@ -57,4 +59,4 @@ Stop the beat
 
 ## License
 
-MIT © [ragingwind](http://ragingwind.me)
+MIT © [Jimmy Moon](http://ragingwind.me)
