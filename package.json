@@ -1,0 +1,34 @@
+{
+  "name": "pulsebeat",
+  "version": "0.0.0",
+  "description": "Beat it, execute it. Simple looping job runner",
+  "license": "MIT",
+  "repository": "ragingwind/pulsebeat",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "Array",
+    "Pulse",
+    "Beat",
+    "Loop"
+  ],
+  "dependencies": {
+    "iterarry": "^0.2.0",
+    "object-assign": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
