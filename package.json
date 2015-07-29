@@ -1,6 +1,6 @@
 {
   "name": "pulsebeat",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Beat it, execute it. Simple looping job runner",
   "license": "MIT",
   "repository": "ragingwind/pulsebeat",
